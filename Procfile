@@ -1,1 +1,1 @@
-web: python pydoxbot.py -Dhttps.port=$PORT
+web: python pydoxbot/core.py -Dhttps.port=$PORT
